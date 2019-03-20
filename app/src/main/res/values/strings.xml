@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="game_button">Game button</string>
+    <string name="start_game_button">Start Game</string>
+    <string name="Result_text">Text here</string>
+    <string name="replay_button">Play Again</string>
+    <string name="score_text">Your Score</string>
+    <string name="home_button">Back to Home</string>
+    <string name="title_home">Simple Game App</string>
+</resources>
